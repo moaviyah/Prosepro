@@ -1,0 +1,182 @@
+{
+  "users": {
+    "zou2NeIj4be2eP3JdYUOIDWhlEa2": {
+      "email": "maviyaakram6@gmail.com",
+      "interests": {
+        "-Ny6Tr-SNYI1mkI-MtuU": "Introduction to Programming Languages",
+        "-Ny6Ts6lbFmwQ25kDg4v": "Masterminds of Programming",
+        "-Ny6TyzS6JJmffGgjeZh": "The Self-Help Compulsion",
+        "-Ny6U-J0ZmtQq5q8Z_rr": "The Book You Were Born to Write",
+        "-Ny6U1sDIygeHVLXXFTw": "The No-Self Help Book"
+      },
+      "name": "Maviya",
+      "password": "",
+      "phoneNumber": "",
+      "profileImage": "file:///var/mobile/Containers/Data/Application/B323B02F-171A-45DE-8CA4-179C977898DA/Library/Caches/ExponentExperienceData/@anonymous/BookApp-9675b33f-5c74-4ab0-aac1-4ed038834057/ImagePicker/D9CA6491-4321-4739-B49F-AB51C52DB510.jpg",
+      "shelfs": {
+        "Classis": {
+          "books": {
+            "How Successful People Think": {
+              "authors": [
+                "John C. Maxwell"
+              ],
+              "cover": "http://books.google.com/books/content?id=_de3dCtxoHYC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+              "description": "Gather successful people from all walks of life -- what would they have in common? The way they think! Now you can think as they do and revolutionize your work and life! A Wall Street Journal bestseller, How Successful People Think is the perfect, compact read for today's fast-paced world. America's leadership expert John C. Maxwell will teach you how to be more creative and when to question popular thinking. You'll learn how to capture the big picture while focusing your thinking. You'll find out how to tap into your creative potential, develop shared ideas, and derive lessons from the past to better understand the future. With these eleven keys to more effective thinking, you'll clearly see the path to personal success. The 11 keys to successful thinking include: Big-Picture Thinking - seeing the world beyond your own needs and how that leads to great ideas Focused Thinking - removing mental clutter and distractions to realize your full potential Creative Thinking - thinking in unique ways and making breakthroughs Shared Thinking - working with others to compound results Reflective Thinking - looking at the past to gain a better understanding of the future.",
+              "id": "_de3dCtxoHYC",
+              "key": "_de3dCtxoHYC0.17051645167336632",
+              "publishedDate": "2009-06-01",
+              "title": "How Successful People Think"
+            },
+            "Masterminds of Programming": {
+              "authors": [
+                "Federico Biancuzzi",
+                "Chromatic"
+              ],
+              "cover": "http://books.google.com/books/content?id=bIxWAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+              "description": "Masterminds of Programming features exclusive interviews with the creators of several historic and highly influential programming languages. In this unique collection, you'll learn about the processes that led to specific design decisions, including the goals they had in mind, the trade-offs they had to make, and how their experiences have left an impact on programming today. Masterminds of Programming includes individual interviews with: Adin D. Falkoff: APL Thomas E. Kurtz: BASIC Charles H. Moore: FORTH Robin Milner: ML Donald D. Chamberlin: SQL Alfred Aho, Peter Weinberger, and Brian Kernighan: AWK Charles Geschke and John Warnock: PostScript Bjarne Stroustrup: C++ Bertrand Meyer: Eiffel Brad Cox and Tom Love: Objective-C Larry Wall: Perl Simon Peyton Jones, Paul Hudak, Philip Wadler, and John Hughes: Haskell Guido van Rossum: Python Luiz Henrique de Figueiredo and Roberto Ierusalimschy: Lua James Gosling: Java Grady Booch, Ivar Jacobson, and James Rumbaugh: UML Anders Hejlsberg: Delphi inventor and lead developer of C# If you're interested in the people whose vision and hard work helped shape the computer industry, you'll find Masterminds of Programming fascinating.",
+              "id": "bIxWAgAAQBAJ",
+              "key": "bIxWAgAAQBAJ0.7372325479152098",
+              "publishedDate": "2009-03-21",
+              "title": "Masterminds of Programming"
+            },
+            "Programming PHP": {
+              "authors": [
+                "Rasmus Lerdorf",
+                "Kevin Tatroe"
+              ],
+              "cover": "http://books.google.com/books/content?id=aqJQAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+              "description": "This is a comprehensive guide to PHP, a simple yet powerful language for creating dynamic web content. It is a detailed reference to the language and its applications, including such topics as form processing, sessions, databases, XML, and graphics and Covers PHP 4, the latest version.",
+              "id": "aqJQAAAAMAAJ",
+              "key": "aqJQAAAAMAAJ0.786702204795824",
+              "publishedDate": "2002-03-26",
+              "title": "Programming PHP"
+            },
+            "The No-Self Help Book": {
+              "authors": [
+                "Kate Gustin"
+              ],
+              "cover": "http://books.google.com/books/content?id=zeFiDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+              "description": "It’s time to get over your self! Written by a clinical psychologist and student of Eastern philosophy, this handy little guide offers a radical solution to anyone struggling with self-doubt, self-esteem, and self-defeating thoughts: “no-self help.” By breaking free of your own self-limiting beliefs, you’ll discover your infinite potential. There is an insidious, global identity theft occurring that has robbed people of their very recognition of their true selves. The culprit—indeed the mastermind of this crisis—has committed the inside job of creating and promoting the idea that we are all a separate self, which is the chief source of our daily distress and dissatisfaction. No more than a narrative of personhood pieced together from disparate neural activations, the self we believe ourselves to be in our own minds—although quite capable of being affirming, inspiring, and constructive—often spews forth a distressing flow of worry and second-guessing, blaming and shaming, regret and guilt. This book offers an antidote to this epidemic of stolen identity, isolation, and self-deprecation: no-self (a concept known in Buddhist philosophy as anatta or anatman). The No-Self Help Book turns the idea of self-improvement on its head, arguing that the key to well-being lies not in the relentless pursuit of bettering one’s self but in the recognition of the self as a false identity born in the mind. Rather than identifying with a small, relative sense of self, this book encourages you to embrace a liberating alternative—an expansive awareness that is flexible and open to experiencing life as an ongoing and ever-changing process, without attachment to personal outcomes or storylines. To help you make this leap from self to no-self, the book provides forty bite-sized chapters full of clever and inspiring insights based in positive psychology and non-duality—a philosophy that asserts there is no real separation between any of us. So, if you’re tired of “self-help” and you’re ready to explore who you are beyond the self, let The No-Self Help Book be your guide.",
+              "id": "zeFiDwAAQBAJ",
+              "key": "zeFiDwAAQBAJ0.21717899987085654",
+              "publishedDate": "2018-12-01",
+              "title": "The No-Self Help Book"
+            }
+          },
+          "newShelfName": "Classis"
+        },
+        "Fiction": {
+          "books": {
+            "A Companion to the History of the Book": {
+              "authors": [
+                "Simon Eliot",
+                "Jonathan Rose"
+              ],
+              "cover": "http://books.google.com/books/content?id=CFiDCjMcnvcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+              "description": "A COMPANION TO THE HISTORY OF THE BOOK A COMPANION TO THE HISTORY OF THE BOOK Edited by Simon Eliot and Jonathan Rose “As a stimulating overview of the multidimensional present state of the field, the Companion has no peer.” Choice “If you want to understand how cultures come into being, endure, and change, then you need to come to terms with the rich and often surprising history Of the book ... Eliot and Rose have done a fine job. Their volume can be heartily recommended. “ Adrian Johns, Technology and Culture From the early Sumerian clay tablet through to the emergence of the electronic text, this Companion provides a continuous and coherent account of the history of the book. A team of expert contributors draws on the latest research in order to offer a cogent, transcontinental narrative. Many of them use illustrative examples and case studies of well-known texts, conveying the excitement surrounding this rapidly developing field. The Companion is organized around four distinct approaches to the history of the book. First, it introduces the variety of methods used by book historians and allied specialists, from the long-established discipline of bibliography to newer IT-based approaches. Next, it provides a broad chronological survey of the forms and content of texts. The third section situates the book in the context of text culture as a whole, while the final section addresses broader issues, such as literacy, copyright, and the future of the book. Contributors to this volume: Michael Albin, Martin Andrews, Rob Banham, Megan L Benton, Michelle P. Brown, Marie-Frangoise Cachin, Hortensia Calvo, Charles Chadwyck-Healey, M. T. Clanchy, Stephen Colclough, Patricia Crain, J. S. Edgren, Simon Eliot, John Feather, David Finkelstein, David Greetham, Robert A. Gross, Deana Heath, Lotte Hellinga, T. H. Howard-Hill, Peter Kornicki, Beth Luey, Paul Luna, Russell L. Martin Ill, Jean-Yves Mollier, Angus Phillips, Eleanor Robson, Cornelia Roemer, Jonathan Rose, Emile G. L Schrijver, David J. Shaw, Graham Shaw, Claire Squires, Rietje van Vliet, James Wald, Rowan Watson, Alexis Weedon, Adriaan van der Weel, Wayne A. Wiegand, Eva Hemmungs Wirtén.",
+              "id": "CFiDCjMcnvcC",
+              "key": "CFiDCjMcnvcC0.6492670367383276",
+              "publishedDate": "2011-08-24",
+              "title": "A Companion to the History of the Book"
+            },
+            "Introduction to Programming Languages": {
+              "authors": [
+                "Arvind Kumar Bansal"
+              ],
+              "cover": "http://books.google.com/books/content?id=zlbSBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+              "description": "In programming courses, using the different syntax of multiple languages, such as C++, Java, PHP, and Python, for the same abstraction often confuses students new to computer science. Introduction to Programming Languages separates programming language concepts from the restraints of multiple language syntax by discussing the concepts at an abstrac",
+              "id": "zlbSBQAAQBAJ",
+              "key": "zlbSBQAAQBAJ0.8324341368875694",
+              "publishedDate": "2013-12-17",
+              "title": "Introduction to Programming Languages"
+            },
+            "Programming Fundamentals": {
+              "authors": [
+                "Kenneth Leroy Busbee"
+              ],
+              "cover": "http://books.google.com/books/content?id=A5yRswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+              "description": "Programming Fundamentals - A Modular Structured Approach using C++ is written by Kenneth Leroy Busbee, a faculty member at Houston Community College in Houston, Texas. The materials used in this textbook/collection were developed by the author and others as independent modules for publication within the Connexions environment. Programming fundamentals are often divided into three college courses: Modular/Structured, Object Oriented and Data Structures. This textbook/collection covers the rest of those three courses.",
+              "id": "A5yRswEACAAJ",
+              "key": "A5yRswEACAAJ0.6876990106265142",
+              "publishedDate": "2018-01-07",
+              "title": "Programming Fundamentals"
+            },
+            "The Book You Were Born to Write": {
+              "authors": [
+                "Kelly Notaras"
+              ],
+              "cover": "http://books.google.com/books/content?id=HWL6DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+              "description": "A guide to writing a full-length transformational nonfiction book, from an editor with two decades' experience working in publishing. \"I know I have a book in me.\" \"I've always wanted to be an author.\" \"People always ask me when I'm going to write my book.\" \"I have a story to tell, but I never seem to make time to write.\" Are you a thought leader, healer, or change-agent stuck at the starting line of book publication? Life coach and publishing industry insider Kelly Notaras offers a clear, step-by-step path for turning your transformational idea or story into a finished book as quickly as possible. With humor, encouragement, and common sense, she demystifies the publishing process so you can get started, keep writing, and successfully get your wisdom out into the world. Notaras guides you through: Getting clear on your motivation for writing a book, Crafting a powerful, compelling hook and strong internal book structure, Overcoming resistance and writer's block, and Getting your finished manuscript onto the printed page, whether through traditional publishing or self-publishing. Publishing a book has never been as simple, accessible, and affordable as it is today, and in our tumultuous world, readers need your healing voice. Be brave, be bold, and take the steps you need to share your message with those who need to hear it most.",
+              "id": "HWL6DwAAQBAJ",
+              "key": "HWL6DwAAQBAJ0.8893626128281004",
+              "publishedDate": "2020-09-15",
+              "title": "The Book You Were Born to Write"
+            },
+            "The Course of True Love (and First Dates)": {
+              "authors": [
+                "Cassandra Clare"
+              ],
+              "cover": "http://books.google.com/books/content?id=GdgeAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+              "description": "Magnus Bane and Alec Lightwood might fall in love—but first they have a first date. One of ten adventures in The Bane Chronicles. When Magnus Bane, warlock, meets Alec Lightwood, Shadowhunter, sparks fly. And what happens on their first date lights a flame... This standalone e-only short story illuminates the life of the enigmatic Magnus Bane, whose alluring personality populates the pages of the #1 New York Times bestselling series The Mortal Instruments and The Infernal Devices. This story in The Bane Chronicles, The Course of True Love (and First Dates), is written by Cassandra Clare.",
+              "id": "GdgeAAAAQBAJ",
+              "key": "GdgeAAAAQBAJ0.6936135435697871",
+              "publishedDate": "2014-03-18",
+              "title": "The Course of True Love (and First Dates)"
+            }
+          },
+          "newShelfName": "Fiction"
+        },
+        "History": {
+          "books": {
+            "Get to the Point!": {
+              "authors": [
+                "Joel Schwartzberg"
+              ],
+              "cover": "http://books.google.com/books/content?id=7EHKDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+              "description": "Whether you want to improve your impact in speeches, staff meetings, pitches, emails, PowerPoint presentations, or any other communication setting, this book provides a novel approach that teaches you how to go from simply sharing a thought to making a difference. --",
+              "id": "7EHKDgAAQBAJ",
+              "key": "7EHKDgAAQBAJ0.6481845454260787",
+              "publishedDate": "2017-10-16",
+              "title": "Get to the Point!"
+            },
+            "Planning Extreme Programming": {
+              "authors": [
+                "Kent Beck",
+                "Martin Fowler"
+              ],
+              "cover": "http://books.google.com/books/content?id=u13hVoYVZa8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+              "description": "Without careful ongoing planning, the software development process can fall apart. Extreme Programming (XP) is a new programming discipline, or methodology, that is geared toward the way that the vast majority of software development projects are handled -- in small teams. In this new book, noted software engineers Kent Beck and Martin Fowler show the reader how to properly plan a software development project with XP in mind. The authors lay out a proven strategy that forces the reader to plan as their software project unfolds, and therefore avoid many of the nasty problems that can potentially spring up along the way.",
+              "id": "u13hVoYVZa8C",
+              "key": "u13hVoYVZa8C0.8652246794071439",
+              "publishedDate": "2001",
+              "title": "Planning Extreme Programming"
+            },
+            "Programming Fundamentals": {
+              "authors": [
+                "Kenneth Leroy Busbee"
+              ],
+              "cover": "http://books.google.com/books/content?id=A5yRswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+              "description": "Programming Fundamentals - A Modular Structured Approach using C++ is written by Kenneth Leroy Busbee, a faculty member at Houston Community College in Houston, Texas. The materials used in this textbook/collection were developed by the author and others as independent modules for publication within the Connexions environment. Programming fundamentals are often divided into three college courses: Modular/Structured, Object Oriented and Data Structures. This textbook/collection covers the rest of those three courses.",
+              "id": "A5yRswEACAAJ",
+              "key": "A5yRswEACAAJ0.6876990106265142",
+              "publishedDate": "2018-01-07",
+              "title": "Programming Fundamentals"
+            },
+            "The Self-Help Compulsion": {
+              "authors": [
+                "Beth Blum"
+              ],
+              "cover": "http://books.google.com/books/content?id=4WBYxQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+              "description": "The Self-Help Compulsion reveals the profound entanglement of modern literature and commercial advice from the late nineteenth century to the present day. Beth Blum explores popular reading practices in which people turn to literature in search of practical advice alongside modern writers' rebukes of such instrumental purposes.",
+              "id": "4WBYxQEACAAJ",
+              "key": "4WBYxQEACAAJ0.08984292177725409",
+              "publishedDate": "2020-01-28",
+              "title": "The Self-Help Compulsion"
+            }
+          },
+          "newShelfName": "History"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+opencv-python
+flask
+openai
+numpy
+pytesseract
+Pillow
+transformers
+torch
+gensim
+sumy
+lxml
+spacy
+spacy-transformers
+nltk
